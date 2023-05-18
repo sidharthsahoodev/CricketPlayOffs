@@ -1,0 +1,20 @@
+plugins {
+    id 'java' // Apply the Java plugin to enable Java-related tasks
+}
+
+group 'org.example' // Specify the group ID for the project
+version '1.0-SNAPSHOT' // Specify the project's version
+
+repositories {
+    mavenCentral() // Configure the repository for resolving dependencies from Maven Central
+}
+
+dependencies {
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.8.1' // Add JUnit Jupiter API as a test dependency
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.8.1' // Add JUnit Jupiter Engine as a test runtime dependency
+    implementation 'org.postgresql:postgresql:42.2.23' // Add PostgreSQL JDBC driver as a project dependency
+}
+
+test {
+    useJUnitPlatform() // Configure the test task to use JUnit Platform for executing tests
+}
