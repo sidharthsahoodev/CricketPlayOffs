@@ -15,7 +15,7 @@ To use this codebase, follow the steps below:
 
 1. Clone the repository to your local machine:
    ```
-   git clone <repository-url>
+   git clone https://github.com/sidharthsahoodev/CricketPlayOffs.git
    ```
 
 2. Ensure that you have Java Development Kit (JDK) installed on your machine.
