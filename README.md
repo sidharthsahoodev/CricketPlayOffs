@@ -6,9 +6,8 @@ This Java codebase provides a cricket playoff scenario analyzer. It retrieves da
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Prompt used for generating comprehensive comments (Any Language)](#Prompt used for generating comprehensive comments)
+- [Prompt used for generating comprehensive comments](#Promptused)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
@@ -52,7 +51,7 @@ To use this codebase, follow the steps below:
 
 The program outputs the probabilities for each team's position in the playoffs.
 
-## Prompt used for generating comprehensive comments (Any Language)
+## Promptused 
 
 "
 {Paste the code you want commented}
