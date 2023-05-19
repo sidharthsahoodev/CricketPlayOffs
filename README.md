@@ -6,7 +6,7 @@ This Java codebase provides a cricket playoff scenario analyzer. It retrieves da
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Prompt used for generating comprehensive comments (Any Language)](#Prompt used for generating comprehensive comments (Any Language))
+- [Prompt used for generating comprehensive comments (Any Language)](#Prompt used for generating comprehensive comments)
 - [Contributing](#contributing)
 - [License](#license)
 
